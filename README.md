@@ -1,11 +1,5 @@
 # 🚲 Seoul Bike Demand Classification  
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![Machine Learning](https://img.shields.io/badge/Built%20With-Machine%20Learning-brightgreen?logo=scikit-learn)
-![Model](https://img.shields.io/badge/Model-XGBoost%20%7C%20Neural%20Net-orange)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![License](https://img.shields.io/badge/License-MIT-blue)
-
 This project analyzes and classifies bike rental demand in Seoul using historical environmental and seasonal data. By leveraging machine learning classification models, we identify key patterns that help predict high versus low demand days, supporting smarter planning and resource allocation.
 
 ## 📊 Dataset
